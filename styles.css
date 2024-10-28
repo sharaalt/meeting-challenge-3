@@ -1,0 +1,36 @@
+body {
+    font-family: 'Amazon Ember', sans-serif;
+    background-color: #cccccc;
+    overflow: auto;
+}
+
+h1 {
+    color: black;
+}
+
+.col {
+    color: #000000;
+}
+
+#deal {
+    background-color: red;
+    height: 48px;
+    width: 50px;
+}
+
+#deal-type {
+    color: red;
+    width: 100px;
+}
+
+#display-img {
+    height: 120px;
+    width: 150px;
+}
+
+#footer {
+    margin-top: 115px;
+    height: 500px;
+    text-align: left;
+    background-color: #232f3e;
+}
